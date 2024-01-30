@@ -1,0 +1,14 @@
+/* Global */
+@import url("./global.css");
+
+/* Menu */
+@import url("./menu.css");
+
+/* Content */
+@import url("./content.css");
+
+/* Commentary */
+@import url("./commentary.css");
+
+/* Footer */
+@import url("./footer.css");
