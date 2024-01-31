@@ -49,6 +49,8 @@
 
 .menu-search {
     display: flex;
+    position: relative;
+    align-items: center;
 }
 
 .menu-search [type="search"] {
@@ -60,6 +62,12 @@
     font-family: Roboto;
     font-size: 0,875rem;
     font-weight: 400;
+}
+
+.menu-search [type="image"] {
+    position: absolute;
+    left: 80px;
+
 }
 
 
