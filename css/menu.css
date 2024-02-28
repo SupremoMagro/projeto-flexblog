@@ -53,7 +53,7 @@
     align-items: center;
 }
 
-.menu-search [type="search"] {
+.menu-search .search {
     width: 100px;
     height: 34px;
     border: 1px solid #ffff;
@@ -64,10 +64,9 @@
     font-weight: 400;
 }
 
-.menu-search [type="image"] {
+.menu-search .search-icon {
     position: absolute;
     left: 80px;
-
 }
 
 
